@@ -1,2 +1,3 @@
 # P773-Insurance-Analytics-
-P773 Insurance Analytics 
+Creating dashboards using Excel, Power BI, Tableau, and SQL involves data preparation, visualization, and insights generation. SQL to extract, clean, and transform data from databases. Excel to clean and manipulate data using formulas, PivotTables, and Power Query.Power BI and Tableau offer interactive dashboards with drag-and-drop functionality, advanced visualizations, and real-time data connections. Excel supports basic dashboard creation with charts, slicers, and conditional formatting.Use filters, drill-downs, and calculated measures (e.g., DAX in Power BI) to enhance insights. Design clear and user-friendly dashboards for data-driven decision-making. 
+Each tool has its strengths—Excel for quick analysis, Power BI and Tableau for dynamic reporting, and SQL for robust data handling.
